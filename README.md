@@ -23,4 +23,4 @@ We implemented two types of game boards, with different ships and places. Here i
     0 1 2 3 4 5 6 7 8 9 10
 ```
 
-At the end of each game the player sees a highscore list, and may choose to play agin!
+At the end of each game the player sees a highscore list, and may choose to play again!
