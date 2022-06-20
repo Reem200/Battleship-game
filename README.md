@@ -3,8 +3,7 @@
 
 The UI was built using **Java Swing**.
 
-We implemented two types of game boards, with different ships and places. You start by choosing the gameboard:
-![Choosing gameboard](images/Choosing_gameboard.png)
+We implemented two types of game boards, with different ships and places. You start by choosing the gameboard.
 
 Then you get the game screen:
 ![Game screen](images/Game_screen.png)
